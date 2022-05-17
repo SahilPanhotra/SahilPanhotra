@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchian Technology 
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Solidity Projects
-- 📫 Reach me by dropping an email to "solidityprofessor@gmail.com"
+- 📫 Reach me by dropping an email to "sahilpanhotra@gmail.com"
 
 <!---
 blockchainmastery/blockchainmastery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
