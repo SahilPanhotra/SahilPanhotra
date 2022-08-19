@@ -1,4 +1,4 @@
-[logo](https://github.com/SahilPanhotra/SahilPanhotra/blob/main/banner.gif)
+![logo](https://github.com/SahilPanhotra/SahilPanhotra/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Sahil Panhotra</h1>
 <h3 align="center">A passionate Web3 Enthusiast & Developer from India</h3>
 
