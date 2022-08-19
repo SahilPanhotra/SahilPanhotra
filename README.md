@@ -1,15 +1,15 @@
 ![logo](https://github.com/SahilPanhotra/SahilPanhotra/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Sahil Panhotra</h1>
 <h3 align="center">A passionate Web3 Enthusiast & Developer from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1260/0*u5AeVsbMhIaUp29p.gif">
-
+<img align="right" src="https://github.com/SahilPanhotra/SahilPanhotra/blob/main/devcard.svg" width="400" alt="Sahil Panhotra's Dev Card"/>
+<!--<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1260/0*u5AeVsbMhIaUp29p.gif">!-->
 ## 💫 About Me:
 🌱 I’m currently learning Solidity <br><br>❓ Ask me about anything related to Web3<br><br>⚡ Fun fact: I use tabs over spaces<br><br>👯 I’m looking to collaborate on  web3 Projects
 
 
 ## 🌐 Connect With Me:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sahilpanhotra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-panhotra-23b46b239) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/972421260627836968)  
+
 
 # 💻 Tech Stack:
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -27,7 +27,9 @@
 <img height="180em" src="https://github-profile-trophy.vercel.app/?username=sahilpanhotra&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4"/>
 </details>
 
+
 <details>
+  
 <summary><b>✍️ Random Dev Quote</b></summary>
 <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </details>
