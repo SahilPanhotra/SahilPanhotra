@@ -13,21 +13,31 @@
 
 # 💻 Tech Stack:
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sahilpanhotra&theme=buefy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sahilpanhotra&theme=buefy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilpanhotra&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sahilpanhotra&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilpanhotra&theme=buefy&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilpanhotra&theme=buefy&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilpanhotra&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</details>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<img height="180em" src="https://github-profile-trophy.vercel.app/?username=sahilpanhotra&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4"/>
+</details>
 
-### 😂 Random Dev Meme
+<details>
+<summary><b>✍️ Random Dev Quote</b></summary>
+<img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</details>
+
+<details>
+<summary><b> 😂 Random Dev Meme</b></summary>
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
+</details>
 
----
+
 [![](https://visitcount.itsvg.in/api?id=sahilpanhotra&icon=5&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
